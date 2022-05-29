@@ -2,3 +2,9 @@ def calculator():
     a=5
     b=3
     return a+b
+
+def maths():
+    import numpy as np
+    a=np.log(15)
+    print(a)
+    return a
