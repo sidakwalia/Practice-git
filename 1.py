@@ -11,3 +11,6 @@ def maths():
 
 def rohit():
     return (15+16)
+
+def full_name():
+    return "Inderpreet Singh"
