@@ -8,3 +8,6 @@ def maths():
     a=np.log(15)
     print(a)
     return a
+
+def rohit():
+    return (15+16)
